@@ -24,6 +24,9 @@ Liste des clients "git" graphiques: https://git-scm.com/downloads/guis
 
  TortoiseGit (gratuit , sous windows)
 https://tortoisegit.org/download/
+
+
+
 https://download.tortoisegit.org/tgit/2.14.0.0/TortoiseGit-2.14.0.1-64bit.msi
 
 GitKraken
@@ -35,3 +38,24 @@ SmartGit
 ----------
 + plugins "git" des principaux IDE (eclipse, intelliJ , Visual studio code , ...
 
+
+Elémentaire en mode local :
+
+Se créer un répertoire de Test --> Créer des sous répertoires --> checker --> 
+
+<img width="654" height="37" alt="image" src="https://github.com/user-attachments/assets/03a6efe6-e6b6-4f5f-8b47-4f00b33cac36" />
+
+vérification -->
+
+<img width="624" height="33" alt="image" src="https://github.com/user-attachments/assets/e230e729-8f21-440f-b267-7f63ef15192e" />
+
+
+Création des fichiers & vérification -->
+
+<img width="928" height="271" alt="image" src="https://github.com/user-attachments/assets/85b53510-f474-400c-9971-43fb886be3df" />
+
+
+Initialiser Git
+
+
+<img width="834" height="206" alt="image" src="https://github.com/user-attachments/assets/7675d416-bc1a-4ab7-b1f3-f3d494a3d3b8" />
