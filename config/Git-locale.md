@@ -59,3 +59,6 @@ Initialiser Git
 
 
 <img width="834" height="206" alt="image" src="https://github.com/user-attachments/assets/7675d416-bc1a-4ab7-b1f3-f3d494a3d3b8" />
+
+ Vérifier l'état du projet --> Ajouter les fichiers texte
+<img width="768" height="432" alt="image" src="https://github.com/user-attachments/assets/ddd3af32-7759-4737-99f1-ca3f3cd2acd3" />
