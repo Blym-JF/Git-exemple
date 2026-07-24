@@ -4,6 +4,8 @@
 
 
 Installation de git en mode texte :
+
+
 Exemple pour linux debian ou ubuntu
 
 
